@@ -1,6 +1,9 @@
-streamlit
-requests
-beautifulsoup4
-langchain
-langchain-community
-langchain-ollama
+streamlit>=1.32.0
+beautifulsoup4>=4.12.2
+requests>=2.31.0
+faiss-cpu>=1.7.4
+numpy>=1.24.3
+langchain>=0.1.17
+langchain-community>=0.0.36
+langchain-ollama>=0.1.3
+sentence-transformers>=2.2.2
